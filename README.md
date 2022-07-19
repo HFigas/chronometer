@@ -1,3 +1,3 @@
 # chronometer
 
-Little chronometer built with assembly using a microprocessor
+Simple chronometer built with assembly using a microprocessor
